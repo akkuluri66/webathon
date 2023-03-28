@@ -1,0 +1,37 @@
+.i1{
+    width:200px;
+    height: 30px;
+    margin-left: 60px;
+}
+.i2{
+    width:200px;
+    height: 30px;
+    margin-left: 63px;
+}
+.i3{
+    width:200px;
+    height: 30px;
+    margin-left: 65px;
+}
+.i4{
+    width:200px;
+    height: 30px;
+    margin-left: 25px;
+}
+.i5{
+    width:200px;
+    height: 30px;
+    margin-left: 61px;
+}
+.part{
+    width:500px;
+    border: 2px solid black;
+    padding: 50px;
+    display: block;
+    margin: auto;
+    margin-top: 80px;
+    background-color: darkseagreen;
+}
+.btt{
+    margin-left: 140px;
+}

@@ -1,0 +1,41 @@
+.full{
+    background-image: url(https://www.solarschools.net/img/learn/sustainability/reduce-reuse-recycle/reduce-reuse-recycle.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    background-attachment: fixed;
+}
+.cardd1{
+    display: flex;
+    width:900px;
+    justify-content: space-between;
+    margin-left: 40px;
+    padding: 40px;
+}
+.main2{
+    background-color:white;
+    width: 1000px;
+    display: block;
+    margin: auto;
+}
+.imgr{
+    margin-left: 80px;
+}
+.gt{
+    display: flex;
+    justify-content: space-around;
+}
+.kt2{
+    width:800px;
+    background-color:darkgray;
+    padding: 20px;
+    margin-left: 100px;
+}
+.yt{
+    border-radius: 100%;
+    box-shadow: 2px 2px;
+}
+.www{
+    width: 500px;
+    height:300px
+}

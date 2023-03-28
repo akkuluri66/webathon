@@ -1,0 +1,27 @@
+
+.c1{
+    width:18rem;
+    background-color:cornsilk;
+}
+.car1{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 80px;
+    padding-bottom: 150px;
+}
+.col{
+    box-shadow:2px 2px 5px black;
+    width: 287px;
+}
+.text{
+    text-decoration: none;
+}
+.textcolor{
+    color: black;
+}
+.main122{
+    background-image: url(https://img.freepik.com/free-vector/ombre-green-abstract-background_53876-116698.jpg?w=740&t=st=1679986211~exp=1679986811~hmac=8dc411a7ca368d82648032880e2c63864d284a49396a5cd86caefc680c3c5433);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}

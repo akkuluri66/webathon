@@ -1,0 +1,45 @@
+.mainans{
+    background-image: url(https://www.solarschools.net/img/learn/sustainability/transport/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+.theone{
+    width: 1000px;
+    background-color:white;
+    display: block;
+    margin: auto;
+    margin-top: 40px;
+}
+.httpp{
+    text-align: center;
+}
+.pic{
+    border-radius: 10px;
+}
+.btb{
+    display: flex;
+    width:1000px;
+    margin-left: 30px;
+    text-align: center;
+}
+.part1{
+    width:900px;
+    background-color: darkgray;
+    text-align: center;
+    margin-left: 25px;
+    margin-top: 20px;
+    padding:10px;
+    border-radius: 20px;
+}
+.part2{
+    display: flex;
+    width: 800px;
+    margin-left: 50px;
+}
+.part3{
+    display: flex;
+    width:800px;
+    margin-left: 50px;
+}

@@ -1,0 +1,18 @@
+.loc{
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:600px;
+    margin-top: 10px;
+}
+.pos{
+    width: 300px;
+    height: 36px;
+    border-radius: 8px;
+}
+.loc1{
+    display: flex;
+    margin-left: 600px;
+}
+.lt{
+    margin-left: 10px;
+}

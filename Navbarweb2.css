@@ -1,0 +1,27 @@
+.child{
+    flex-grow: 1;
+    justify-content: end;
+    justify-content: space-evenly;
+    width: 500px;
+}
+.par{
+    background-color:darkolivegreen;
+    padding: 8px;
+}
+.par1{
+    padding-left: 1050px;
+}
+.login{
+    font-size: 20px;
+}
+.b1{
+    border-radius: 5px;
+}
+.drop{
+    background-color:dimgray;
+}
+.sum{
+    color:aliceblue;
+    
+
+}

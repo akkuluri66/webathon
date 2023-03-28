@@ -1,0 +1,36 @@
+###
+POST http://localhost:4000/user-api/login
+Content-Type: application/json
+    
+{
+  "email": "21071A1277",
+  "password": "password"
+}
+###
+POST http://localhost:4000/user-api/create-user
+Content-Type: application/json
+    
+{
+  "username": "ABC",
+  "email": "21071A1266",
+  "password": "password",
+  "cpassword": "password"
+}
+###
+POST http://localhost:4000/user-api/post-blog
+Content-Type: application/json
+    
+{
+  "src":"",
+  "title":"this is test title",
+  "description":"This is test description"
+}
+
+###
+GET http://localhost:4000/user-api/like-count
+
+###
+GET http://localhost:4000/user-api/post-like
+
+###
+GET http://localhost:4000/user-api/get-blogs

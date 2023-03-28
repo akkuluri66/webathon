@@ -1,0 +1,22 @@
+.ch{
+    width: 400px;
+    text-align: center;
+    display: block;
+    margin: auto;
+    padding: 20px;
+    height: 350px;
+    border-radius: 20px;
+}
+.bigtext{
+    width: 250px;
+    margin-left: 60px;
+}
+.log5{
+    background-image: url(C:\Users\akkul\Downloads\leaves-gfd72c7d84_1920.jpg);
+    background-size: cover;
+   min-height:100vh;
+}
+.log1{
+    margin-top: 150px;
+    margin-right:900px;
+}

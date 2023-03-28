@@ -1,0 +1,53 @@
+.ht2{
+    display: flex;
+    width: 800px;
+    margin-left: 50px;
+    padding: 25px;
+}
+.btt2{
+    width: 1000px;
+    background-color: white;
+    display: block;
+    margin: auto;
+    padding: 30px;
+}
+.bbb{
+    background-image: url(https://www.solarschools.net/img/learn/energy/electricity/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    background-attachment: fixed;
+}
+.hpp1{
+    width: 300px;
+}
+.hpp2{
+    width: 200px;
+    margin-left: 100px;
+}
+.c-item {
+    height: 480px;
+    
+  }
+  .p{
+    color:black;
+    align-items: center;
+  }
+  .x{
+    color: maroon;
+    opacity:0.7;
+  }
+  .c-img {
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.6);
+  }
+  .caro{
+    display:block;
+    margin:auto;
+    background-color:darkgray;
+    width:1000px;
+    height:200px;
+      }
+    
+    

@@ -1,0 +1,64 @@
+GET    http://localhost:4000/user-api/get-users
+
+###
+
+GET    http://localhost:4000/user-api/get-user/100
+
+###
+GET    http://localhost:4000/user-api/get-username/madhu
+###
+
+POST    http://localhost:4000/user-api/create-user
+Content-Type: application/json
+
+{
+    "id":"700",
+    "name":"abdefgh",
+    "password":"1234",
+    "email":"abcdef@mail"
+}
+
+###
+
+POST   http://localhost:4000/user-api/user-login
+Content-Type: application/json
+
+
+{
+    "name":"abdefgh",
+    "password":"1234"
+}
+
+
+
+
+###
+
+PUT    http://localhost:3500/user-api/update-user
+Content-Type: application/json
+
+{
+    "id":"100",
+    "name":"Mahesh Reddy",
+    "age":"25"
+}
+###
+
+DELETE http://localhost:3500/user-api/delete-user/100
+
+
+###
+
+GET  http://localhost:4000/res-api/get-users
+
+###
+
+POST  http://locathost:4000/res-api/create-user
+Content-Type: application/json
+
+{
+    "id":"1",
+    "name":"ram",
+    "power":"1000",
+    "date":"11-nov-2222"
+}
